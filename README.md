@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Uploading image with Multer in Node and resizing it using sharp npm package
 
 
