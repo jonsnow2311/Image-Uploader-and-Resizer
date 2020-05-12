@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Uploading image with Multer in Node and resizing it using sharp npm package
 
 
@@ -20,4 +21,3 @@ Select Body->form-data->{ key: pic , value: "your desired pic"}
 GET - `http://localhost:3000/download/:id`
 
 Inside body define height and width.
-
